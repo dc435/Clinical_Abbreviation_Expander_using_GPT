@@ -1,4 +1,4 @@
-__Optimization and deployment challenges of closed-source LLMs for clinical note abbreviation expansion__
+#Optimization and deployment challenges of closed-source LLMs for clinical note abbreviation expansion
 
 ## Overview
 
