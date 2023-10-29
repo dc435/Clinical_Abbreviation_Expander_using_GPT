@@ -1,4 +1,4 @@
-# Optimization and deployment challenges of closed-source LLMs for clinical note abbreviation expansion
+# Clinical note abbreviation expansion using GPT-3.5
 
 ## Overview
 
